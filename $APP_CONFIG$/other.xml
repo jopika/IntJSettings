@@ -1,13 +1,17 @@
 <application>
+  <component name="Clover">
+    <option name="sid" value="B3L6-L8DK-MDFB-DWQP" />
+  </component>
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
+        <option name="RIGHT_MARGIN" value="80" />
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
         </XML>
       </value>
     </option>
-    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
@@ -121,9 +125,7 @@
       <list>
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/marking/L2F/h6v9a" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/users/L2F/h6v9a" />
-        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/users/LLL/h6v9a" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/lectures" />
-        <option value="http://kunghit.ugrad.cs.ubc.ca:8080/Web-CAT/WebObjects/Web-CAT.woa/wa/assignments/eclipse" />
       </list>
     </option>
   </component>
