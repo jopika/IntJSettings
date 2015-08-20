@@ -128,6 +128,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/exams/finex" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/exams/midterm" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/marking/L2F/h6v9a" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/users/L2F/h6v9a" />
@@ -136,6 +137,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/exams/finex" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/exams/midterm" />
         <option value="http://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/exams/midterm" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015s2/marking/L2F/h6v9a" />
