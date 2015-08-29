@@ -23,13 +23,6 @@
       <component name="CompilerWorkspaceConfiguration">
         <option name="MAKE_PROJECT_ON_SAVE" value="true" />
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
@@ -69,7 +62,7 @@
         <property name="project.structure.last.edited" value="SDKs" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/Classes/2014-2015/S2 - CPSC 210/Term Project" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Desktop/CPSC 210/Final" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -159,7 +152,7 @@
         </configuration>
       </component>
       <component name="SvnConfiguration" myUseAcceleration="nothing">
-        <configuration>d:\Users\Admin Jonathan\AppData\Roaming\Subversion</configuration>
+        <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
