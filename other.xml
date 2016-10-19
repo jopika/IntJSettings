@@ -1,0 +1,17 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2016w1/users/L1C/h6v9a" />
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2016w1/lectures" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2016w1/users/L1C/h6v9a" />
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2016w1/lectures" />
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2016w2/lectures" />
+      </list>
+    </option>
+  </component>
+</application>
