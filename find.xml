@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File 'C:\Users\Jopika\workspace\G12_B_P2\ServerMangement\src\itemDB\QueryManager.java'" />
     <option name="defaultScopeName" value="File 'C:\Users\Jopika\workspace\G12_B_P2\ServerMangement\src\itemDB\QueryManager.java'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\Users\Jopika\workspace\G12_B_P2\ServerMangement\src\itemDB\QueryManager.java'" />
   </component>
 </application>
